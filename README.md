@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
 <h3 align="center">A passionate frontend developer from FTCC Solutions Inc.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20views&color=0e75b6&style=flat" alt="zenncode" /> </p>
+- 🔭 I’m currently Intern on FTCC Solutions Inc. On the Job Training (OJT) **Our project name is FTCC Company Management System**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenncode" alt="zenncode" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zenncode" target="blank"><img src="https://img.shields.io/twitter/follow/zenncode?logo=twitter&style=for-the-badge" alt="zenncode" /></a> </p>
-
-- 🔭 I’m currently Intern on FTCC Solutions Inc. On the Job Training **Our project name is FTCC Company Management System**
-
-- 🌱 I’m currently learning **Node.js, TypeScript, React.js , TailwindCSS, MonggoDB (atlas)**
+- 🌱 I’m currently learning **Node.js, TypeScript, JavaScript , Java, React.js , TailwindCSS, MonggoDB (atlas)**
 
 - 👨‍💻 All of my projects are available at [https://zenncode.github.io/gitzenn/](https://zenncode.github.io/gitzenn/)
 
@@ -17,28 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/zenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zenn" height="30" width="40" /></a>
 <a href="https://dev.to/dev.zenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.zenn" height="30" width="40" /></a>
 <a href="https://twitter.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenncode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://codesandbox.com/zenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="zenn" height="30" width="40" /></a>
 <a href="https://kaggle.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenncode" height="30" width="40" /></a>
 <a href="https://fb.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zenncode" height="30" width="40" /></a>
 <a href="https://instagram.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://dribbble.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.behance.net/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://hashnode.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://medium.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zenncode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zenncode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="zenncode" height="30" width="40" /></a>
-<a href="https://discord.gg/ZennCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZennCode" height="30" width="40" /></a>
+<a href="https://discord.gg/zenncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zenncode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
