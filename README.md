@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
-<h3 align="center">A passionate frontend developer from FTCC Solutions Inc.</h3>
+<h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
 
 - 🔭 I’m currently Intern on FTCC Solutions Inc. On the Job Training (OJT) **Our project name is FTCC Company Management System**
 
