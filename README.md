@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.js, TypeScript, JavaScript , Java, React.js , TailwindCSS, MonggoDB (atlas)**
 
-- 👨‍💻 All of my projects are available at [https://zenncode.github.io/gitzenn/](https://zenncode.github.io/gitzenn/)
+- 👨‍💻 This is my personal portfolio at [https://zenncode.github.io/gitzenn/](https://zenncode.github.io/gitzenn/)
 
-- 📫 How to reach me **zenjanarce4@gmail.com**
+- 📫 How to reach me **zenjanarce8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
