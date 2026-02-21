@@ -146,17 +146,18 @@
 
 ---
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- FIXED: Added show_icons=true and changed theme to one that supports icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=radical&hide_border=true&langs_count=8&show_icons=true" alt="Top Languages" height="170"/>
 </p>
 
+<!-- FIXED: Changed to a theme that shows icons properly -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -164,7 +165,7 @@
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -172,16 +173,19 @@
 <h2 align="center">🌐 Profile Summary Cards</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=tokyonight" alt="Profile Summary"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=radical" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=radical" alt="Repos Per Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=tokyonight&utcOffset=8" alt="Productive Time (PH)"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=radical" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=radical" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=radical&utcOffset=8" alt="Productive Time (PH)"/>
 </p>
 
 ---
@@ -189,7 +193,7 @@
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
