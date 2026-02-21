@@ -18,14 +18,9 @@
 
 <h3 align="center">🔗 Connect with me</h3>
 
-<p align="center">
-  <a href="https://dev.to/dev.zenn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.zenn" height="30" width="40" /></a>
-  <a href="https://twitter.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenncode" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenncode" height="30" width="40" /></a>
   <a href="https://kaggle.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenncode" height="30" width="40" /></a>
   <a href="https://fb.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zenncode" height="30" width="40" /></a>
   <a href="https://instagram.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenncode" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zenncode" height="30" width="40" /></a>
   <a href="https://discord.gg/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zenncode" height="30" width="40" /></a>
 </p>
 
