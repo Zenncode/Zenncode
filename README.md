@@ -146,32 +146,24 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenncode&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zenncode&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="zenncode trophies"/>
 </p>
 
 ---
 
-<h2 align="center">📦 Contribution Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zenncode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
