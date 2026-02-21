@@ -157,13 +157,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/zenncode">
-    <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zenncode">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -180,10 +180,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=tokyonight" alt="Most Commit Language"/>
 </p>
