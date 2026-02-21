@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
 </p>
 
-
 <h3 align="center">🌐 Frontend & Frameworks</h3>
 
 <p align="center">
@@ -58,7 +57,6 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/>
 </p>
 
-
 <h3 align="center">⚙️ Backend & Runtime</h3>
 
 <p align="center">
@@ -70,7 +68,6 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest api"/>
 </p>
 
-
 <h3 align="center">📱 Mobile Development</h3>
 
 <p align="center">
@@ -78,7 +75,6 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo"/>
 </p>
-
 
 <h3 align="center">🗄️ Databases</h3>
 
@@ -88,7 +84,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
 </p>
-
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
 
@@ -111,7 +106,6 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
 </p>
-
 
 <h3 align="center">💻 Code Editors & IDEs</h3>
 
@@ -148,24 +142,29 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<!-- FIXED: Added show_icons=true and changed theme to one that supports icons -->
+<!-- FIXED: Using compact stats cards that always show icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=radical&hide_border=true&langs_count=8&show_icons=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
-<!-- FIXED: Changed to a theme that shows icons properly -->
+<!-- FIXED: Streak stats with custom colors -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=79c0ff&sideNums=79c0ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<!-- Alternative: If streak still doesn't show icons, use this compact version -->
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zenncode&theme=dark&hide_border=true&background=0d1117&border=30363d" alt="GitHub Streak"/>
+</p> -->
 
 ---
 
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -173,19 +172,19 @@
 <h2 align="center">🌐 Profile Summary Cards</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=radical" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=github_dark" alt="Repos Per Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=github_dark" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=github_dark" alt="Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=radical&utcOffset=8" alt="Productive Time (PH)"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=github_dark&utcOffset=8" alt="Productive Time (PH)"/>
 </p>
 
 ---
@@ -193,7 +192,7 @@
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
 ---
