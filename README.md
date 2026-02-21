@@ -10,7 +10,7 @@
 <p align="center">
   🔭 I'm currently an Intern at <strong>FTCC Solutions Inc.</strong> — working on the <strong>FTCC Company Management System</strong><br/>
   👨‍💻 Personal portfolio → <a href="https://zenncode.github.io/gitzenn">zenncode.github.io/gitzenn</a><br/>
-  📫 Reach me at <strong>zennjanarce@gmail.com</strong>
+  📫 Reach me at <strong>zennjanarce8@gmail.com</strong>
 </p>
 
 <br/>
