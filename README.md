@@ -157,13 +157,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/zenncode">
+    <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zenncode">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
 ---
