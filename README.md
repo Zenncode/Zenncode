@@ -142,11 +142,10 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<!-- FIXED: Using compact stats cards that always show icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://img.shields.io/github/stars/zenncode?style=flat-square&logo=github&label=Stars&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
+  <img src="https://img.shields.io/github/followers/zenncode?style=flat-square&logo=github&label=Followers&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
+  <img src="https://img.shields.io/badge/Commits-All%20Time-58a6ff?style=flat-square&logo=git&logoColor=79c0ff&labelColor=0d1117"/>
 </p>
 
 <!-- FIXED: Streak stats with custom colors -->
