@@ -117,7 +117,9 @@
 
 <p align="center">
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.png/120px-canva_Logo.png" alt="canva" width="40" height="40"/></a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.png" alt="canva" width="40" height="40"/>
+</a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
