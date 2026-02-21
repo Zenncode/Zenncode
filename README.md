@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **zenjanarce8@gmail.com**
 
-<h1 align="center">FRONTEND</h6>
+<h1 align="center">FRONTEND</h1>
+<h1 align="center">BACKEND</h1>
+<h1 align="center">LIBRARY</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
