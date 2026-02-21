@@ -24,10 +24,9 @@
   <a href="https://discord.gg/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
-
 
 <h3 align="center">🧑‍💻 Programming Languages</h3>
 
