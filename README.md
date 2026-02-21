@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
 <h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Zenjan+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
+</p>
+
 <br/>
 
 - 🔭 I'm currently an Intern at **FTCC Solutions Inc.** — working on the **FTCC Company Management System**
@@ -81,7 +85,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="420">
+    <td align="center" width="500">
       <h3>🏢 FTCC Company Management System</h3>
       <p>An internal company management system built during my On-the-Job Training at <strong>FTCC Solutions Inc.</strong></p>
       <p>
@@ -123,10 +127,83 @@
 
 ---
 
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenncode/zenncode/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenncode/zenncode/output/github-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/zenncode/zenncode/output/github-snake.svg"/>
+  </picture>
+</p>
+
+> ⚠️ **Para gumana ang Snake:** Gumawa ng `.github/workflows/snake.yml` sa iyong profile repo at i-paste ito:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: zenncode
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+<h2 align="center">🌐 Profile Summary Cards</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=tokyonight" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=tokyonight&utcOffset=8" alt="Productive Time (PH)"/>
+</p>
+
+---
+
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<h2 align="center">😂 Random Dev Meme</h2>
+
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme"/>
 </p>
 
 ---
