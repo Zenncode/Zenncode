@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Zenjan+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+ZennCode+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
 </p>
 
 <br/>
