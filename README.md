@@ -28,10 +28,9 @@
 </p>
 
 ---
-
+<br>
 <h2 align="center">🛠️ Tech Stack</h2>
-
----
+</br>
 
 <h3 align="center">🧑‍💻 Programming Languages</h3>
 
