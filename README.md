@@ -10,7 +10,7 @@
 - 🔭 I'm currently an Intern at **FTCC Solutions Inc.** — working on the **FTCC Company Management System**
 - 🌱 I'm currently learning **Node.js · TypeScript · JavaScript · Java · React.js · TailwindCSS · MongoDB Atlas**
 - 👨‍💻 Personal portfolio → [zenncode.github.io/gitzenn](https://zenncode.github.io/gitzenn/)
-- 📫 Reach me at **zenjanarce8@gmail.com**
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b4ced1daded5dad5c6d7d18cf4d3d9d5ddd89ad7dbd9">[email&#160;protected]</a>**
 
 <br/>
 
@@ -71,6 +71,35 @@
 ---
 
 <h3 align="left">📚 Libraries & Tools</h3>
+
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">🎨 Design & Editing Tools</h3>
+
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.png" alt="canva" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">💻 Code Editors & IDEs</h3>
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://www.cursor.so/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="cursor" width="40" height="40"/></a>
+</p>
+
+REPLACEMARKER
 
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -209,7 +238,4 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">⚡ <em>Code. Learn. Build. Repeat.</em></p>
+  <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%
