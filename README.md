@@ -1,509 +1,415 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Zenjan — GitHub Stats Preview</title>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet"/>
-  <style>
-    :root {
-      --bg: #0d1117;
-      --surface: #161b22;
-      --border: #21262d;
-      --accent: #00c9ff;
-      --accent2: #7f5af0;
-      --text: #e6edf3;
-      --muted: #8b949e;
-    }
+<h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
+<h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Zenjan+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
+</p>
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'JetBrains Mono', monospace;
-      min-height: 100vh;
-      padding: 40px 20px;
-    }
+<br/>
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-    }
+<p align="center">
+  🔭 I'm currently an Intern at <strong>FTCC Solutions Inc.</strong> — working on the <strong>FTCC Company Management System</strong><br/>
+  👨‍💻 Personal portfolio → <a href="https://zenncode.github.io/gitzenn">zenncode.github.io/gitzenn</a><br/>
+  📫 Reach me at <strong>zennjanarce8@gmail.com</strong>
+</p>
 
-    .section-label {
-      font-family: 'Syne', sans-serif;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: var(--accent);
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .section-label::before {
-      content: '';
-      width: 24px;
-      height: 2px;
-      background: var(--accent);
-      display: inline-block;
-    }
+<br/>
 
-    h2 {
-      font-family: 'Syne', sans-serif;
-      font-size: 28px;
-      font-weight: 800;
-      margin-bottom: 28px;
-      position: relative;
-    }
+<h3 align="center">🔗 Connect with me</h3>
 
-    /* ── TROPHIES ── */
-    .trophies-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
-      gap: 12px;
-      margin-bottom: 60px;
-    }
+<p align="center">
+  <a href="https://kaggle.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://fb.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://discord.gg/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
 
-    .trophy-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 16px 10px;
-      text-align: center;
-      transition: border-color 0.2s, transform 0.2s;
-      position: relative;
-      overflow: hidden;
-    }
-    .trophy-card::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(circle at 50% 0%, rgba(0,201,255,0.06), transparent 70%);
-      pointer-events: none;
-    }
-    .trophy-card:hover {
-      border-color: var(--accent);
-      transform: translateY(-3px);
-    }
+---
 
-    .trophy-icon {
-      font-size: 30px;
-      margin-bottom: 8px;
-      display: block;
-    }
-    .trophy-title {
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 4px;
-    }
-    .trophy-value {
-      font-family: 'Syne', sans-serif;
-      font-size: 16px;
-      font-weight: 800;
-      color: var(--text);
-    }
-    .trophy-value.gold { color: #ffd700; }
-    .trophy-value.silver { color: #c0c0c0; }
-    .trophy-value.bronze { color: #cd7f32; }
+<h2 align="center">🛠️ Tech Stack</h2>
 
-    /* ── STATS GRID ── */
-    .stats-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-      margin-bottom: 60px;
-    }
+<h3 align="center">🧑‍💻 Programming Languages</h3>
 
-    @media (max-width: 600px) {
-      .stats-grid { grid-template-columns: 1fr; }
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+</p>
 
-    .stat-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 24px;
-      position: relative;
-      overflow: hidden;
-      transition: border-color 0.2s;
-    }
-    .stat-card:hover { border-color: var(--accent2); }
 
-    .stat-card .glow {
-      position: absolute;
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(127,90,240,0.15), transparent 70%);
-      top: -60px;
-      right: -60px;
-      pointer-events: none;
-    }
+<h3 align="center">🌐 Frontend & Frameworks</h3>
 
-    .stat-card-title {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 20px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .stat-card-title .dot {
-      width: 6px; height: 6px;
-      border-radius: 50%;
-      background: var(--accent);
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/>
+</p>
 
-    .stat-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 9px 0;
-      border-bottom: 1px solid var(--border);
-    }
-    .stat-row:last-child { border-bottom: none; }
 
-    .stat-name {
-      font-size: 11px;
-      color: var(--muted);
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .stat-name .icon { font-size: 14px; }
+<h3 align="center">⚙️ Backend & Runtime</h3>
 
-    .stat-num {
-      font-family: 'Syne', sans-serif;
-      font-weight: 700;
-      font-size: 15px;
-      color: var(--text);
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="hadoop"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest api"/>
+</p>
 
-    /* streak card */
-    .streak-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 28px 32px;
-      margin-bottom: 60px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 20px;
-      flex-wrap: wrap;
-      position: relative;
-      overflow: hidden;
-    }
-    .streak-card::before {
-      content: '';
-      position: absolute;
-      bottom: -40px; left: -40px;
-      width: 200px; height: 200px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(0,201,255,0.1), transparent 70%);
-      pointer-events: none;
-    }
 
-    .streak-block { text-align: center; flex: 1; min-width: 120px; }
-    .streak-number {
-      font-family: 'Syne', sans-serif;
-      font-size: 42px;
-      font-weight: 800;
-      background: linear-gradient(135deg, var(--accent), var(--accent2));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      line-height: 1;
-    }
-    .streak-label {
-      font-size: 10px;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-top: 6px;
-    }
-    .streak-divider {
-      width: 1px;
-      height: 60px;
-      background: var(--border);
-      flex-shrink: 0;
-    }
+<h3 align="center">📱 Mobile Development</h3>
 
-    /* Top langs */
-    .lang-bar-wrap { margin-bottom: 60px; }
-    .lang-row {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-bottom: 10px;
-    }
-    .lang-name {
-      font-size: 11px;
-      width: 120px;
-      color: var(--muted);
-      flex-shrink: 0;
-    }
-    .lang-bar-bg {
-      flex: 1;
-      height: 8px;
-      background: var(--border);
-      border-radius: 99px;
-      overflow: hidden;
-    }
-    .lang-bar-fill {
-      height: 100%;
-      border-radius: 99px;
-      background: linear-gradient(90deg, var(--accent), var(--accent2));
-      transition: width 1s ease;
-    }
-    .lang-pct {
-      font-size: 11px;
-      font-weight: 700;
-      color: var(--text);
-      width: 36px;
-      text-align: right;
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo"/>
+</p>
 
-    .note {
-      text-align: center;
-      font-size: 11px;
-      color: var(--muted);
-      margin-top: -40px;
-      margin-bottom: 40px;
-    }
 
-    /* README COPY SECTION */
-    .readme-box {
-      background: #0d1117;
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 24px;
-      margin-top: 60px;
-    }
-    .readme-box h3 {
-      font-family: 'Syne', sans-serif;
-      font-size: 14px;
-      font-weight: 700;
-      color: var(--accent);
-      margin-bottom: 16px;
-    }
-    .readme-box pre {
-      font-size: 11px;
-      color: #8b949e;
-      white-space: pre-wrap;
-      word-break: break-all;
-      line-height: 1.8;
-    }
-    .copy-btn {
-      background: var(--accent);
-      color: #000;
-      border: none;
-      border-radius: 6px;
-      padding: 8px 16px;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      font-weight: 700;
-      cursor: pointer;
-      margin-top: 12px;
-      transition: opacity 0.2s;
-    }
-    .copy-btn:hover { opacity: 0.8; }
+<h3 align="center">🗄️ Databases</h3>
 
-    hr.divider {
-      border: none;
-      border-top: 1px solid var(--border);
-      margin: 48px 0;
-    }
-  </style>
-</head>
-<body>
-<div class="container">
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+</p>
 
-  <!-- HEADER -->
-  <div style="margin-bottom:48px; padding-bottom:24px; border-bottom: 1px solid #21262d;">
-    <div class="section-label">GitHub Profile</div>
-    <h2 style="font-size:36px;">Zenjan Kiervin B. Arce</h2>
-    <p style="color:var(--muted); font-size:12px;">Fullstack Developer · OJT Intern @ FTCC Solutions Inc.</p>
-  </div>
 
-  <!-- TROPHIES -->
-  <div class="section-label">Achievements</div>
-  <h2>🏆 GitHub Trophies</h2>
-  <div class="trophies-grid">
-    <div class="trophy-card">
-      <span class="trophy-icon">🏆</span>
-      <div class="trophy-title">Commits</div>
-      <div class="trophy-value gold">Gold</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🌟</span>
-      <div class="trophy-title">Stars</div>
-      <div class="trophy-value silver">Silver</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🔁</span>
-      <div class="trophy-title">Followers</div>
-      <div class="trophy-value bronze">Bronze</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🗂️</span>
-      <div class="trophy-title">Repos</div>
-      <div class="trophy-value gold">Gold</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🐣</span>
-      <div class="trophy-title">Experience</div>
-      <div class="trophy-value" style="color:var(--accent)">Junior</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🔀</span>
-      <div class="trophy-title">Pull Req.</div>
-      <div class="trophy-value silver">Silver</div>
-    </div>
-    <div class="trophy-card">
-      <span class="trophy-icon">🐛</span>
-      <div class="trophy-title">Issues</div>
-      <div class="trophy-value bronze">Bronze</div>
-    </div>
-  </div>
-  <p class="note">*Trophy levels are illustrative — badges load dynamically from github-profile-trophy.vercel.app</p>
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
-  <hr class="divider"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="railway"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
+</p>
 
-  <!-- STATS -->
-  <div class="section-label">Activity</div>
-  <h2>📊 GitHub Stats</h2>
-  <div class="stats-grid">
-    <div class="stat-card">
-      <div class="glow"></div>
-      <div class="stat-card-title"><span class="dot"></span>Overview</div>
-      <div class="stat-row">
-        <span class="stat-name"><span class="icon">⭐</span>Total Stars Earned</span>
-        <span class="stat-num">—</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-name"><span class="icon">🔁</span>Total Commits (2024)</span>
-        <span class="stat-num">—</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-name"><span class="icon">🔀</span>Total PRs</span>
-        <span class="stat-num">—</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-name"><span class="icon">🐛</span>Total Issues</span>
-        <span class="stat-num">—</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-name"><span class="icon">📦</span>Contributed To</span>
-        <span class="stat-num">—</span>
-      </div>
-    </div>
+<h3 align="center">🎨 Design & Editing Tools</h3>
 
-    <div class="stat-card">
-      <div class="glow"></div>
-      <div class="stat-card-title"><span class="dot"></span>Top Languages</div>
-      <div class="lang-bar-wrap" style="margin-bottom:0">
-        <div class="lang-row">
-          <span class="lang-name">TypeScript</span>
-          <div class="lang-bar-bg"><div class="lang-bar-fill" style="width:72%"></div></div>
-          <span class="lang-pct">72%</span>
-        </div>
-        <div class="lang-row">
-          <span class="lang-name">JavaScript</span>
-          <div class="lang-bar-bg"><div class="lang-bar-fill" style="width:55%"></div></div>
-          <span class="lang-pct">55%</span>
-        </div>
-        <div class="lang-row">
-          <span class="lang-name">Python</span>
-          <div class="lang-bar-bg"><div class="lang-bar-fill" style="width:38%"></div></div>
-          <span class="lang-pct">38%</span>
-        </div>
-        <div class="lang-row">
-          <span class="lang-name">PHP</span>
-          <div class="lang-bar-bg"><div class="lang-bar-fill" style="width:20%"></div></div>
-          <span class="lang-pct">20%</span>
-        </div>
-        <div class="lang-row">
-          <span class="lang-name">Java</span>
-          <div class="lang-bar-bg"><div class="lang-bar-fill" style="width:14%"></div></div>
-          <span class="lang-pct">14%</span>
-        </div>
-      </div>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
+</p>
 
-  <hr class="divider"/>
 
-  <!-- STREAK -->
-  <div class="section-label">Consistency</div>
-  <h2>🔥 Contribution Streak</h2>
-  <div class="streak-card">
-    <div class="streak-block">
-      <div class="streak-number">—</div>
-      <div class="streak-label">Total Contributions</div>
-    </div>
-    <div class="streak-divider"></div>
-    <div class="streak-block">
-      <div class="streak-number">—</div>
-      <div class="streak-label">Current Streak</div>
-    </div>
-    <div class="streak-divider"></div>
-    <div class="streak-block">
-      <div class="streak-number">—</div>
-      <div class="streak-label">Longest Streak</div>
-    </div>
-  </div>
+<h3 align="center">💻 Code Editors & IDEs</h3>
 
-  <hr class="divider"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
+</p>
 
-  <!-- README SNIPPET -->
-  <div class="readme-box">
-    <h3>📋 Fixed README Snippet — Copy & Replace</h3>
-    <pre id="readme-code">
-&lt;!-- ════════════ TROPHIES ════════════ --&gt;
-&lt;h2 align="center"&gt;🏆 GitHub Trophies&lt;/h2&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=zenncode&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/&gt;
-&lt;/p&gt;
+---
 
-&lt;br/&gt;
+<h2 align="center">🏗️ Current Project (OJT)</h2>
 
-&lt;!-- ════════════ GITHUB STATS ════════════ --&gt;
-&lt;h2 align="center"&gt;📊 GitHub Stats&lt;/h2&gt;
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <h3>🏢 FTCC Company Management System</h3>
+      <p>An internal company management system built during my On-the-Job Training at <strong>FTCC Solutions Inc.</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Role-Fullstack%20Intern-blue?style=for-the-badge"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-&lt;div align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=zenncode&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="175"/&gt;
-  &amp;nbsp;&amp;nbsp;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="175"/&gt;
-&lt;/div&gt;
+---
 
-&lt;br/&gt;
+<h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
+<h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
 
-&lt;!-- ════════════ STREAK ════════════ --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=zenncode&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/&gt;
-&lt;/p&gt;
-    </pre>
-    <button class="copy-btn" onclick="
-      navigator.clipboard.writeText(document.getElementById('readme-code').innerText.trim());
-      this.textContent = '✓ Copied!';
-      setTimeout(() => this.textContent = 'Copy README Snippet', 2000);
-    ">Copy README Snippet</button>
-  </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Zenjan+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
+</p>
 
-  <p style="text-align:center; color:var(--muted); font-size:11px; margin-top:32px;">
-    Preview by Claude · Stats load live from GitHub APIs
-  </p>
+<br/>
 
-</div>
-</body>
-</html>
+<p align="center">
+  🔭 I'm currently an Intern at <strong>FTCC Solutions Inc.</strong> — working on the <strong>FTCC Company Management System</strong><br/>
+  👨‍💻 Personal portfolio → <a href="https://zenncode.github.io/gitzenn">zenncode.github.io/gitzenn</a><br/>
+  📫 Reach me at <strong>zennjanarce8@gmail.com</strong>
+</p>
+
+<br/>
+
+<h3 align="center">🔗 Connect with me</h3>
+
+<p align="center">
+  <a href="https://kaggle.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://fb.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://discord.gg/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">🧑‍💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+</p>
+
+
+<h3 align="center">🌐 Frontend & Frameworks</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/>
+</p>
+
+
+<h3 align="center">⚙️ Backend & Runtime</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="hadoop"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest api"/>
+</p>
+
+
+<h3 align="center">📱 Mobile Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo"/>
+</p>
+
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+</p>
+
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="railway"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
+</p>
+
+<h3 align="center">🎨 Design & Editing Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
+</p>
+
+
+<h3 align="center">💻 Code Editors & IDEs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
+</p>
+
+---
+
+<h2 align="center">🏗️ Current Project (OJT)</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <h3>🏢 FTCC Company Management System</h3>
+      <p>An internal company management system built during my On-the-Job Training at <strong>FTCC Solutions Inc.</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Role-Fullstack%20Intern-blue?style=for-the-badge"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zenncode&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="zenncode trophies"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenncode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenncode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenncode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Profile Summary Cards</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=tokyonight" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=tokyonight&utcOffset=8" alt="Productive Time (PH)"/>
+</p>
+
+---
+
+<h2 align="center">💬 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<h2 align="center">😂 Random Dev Meme</h2>
+
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Profile Summary Cards</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=tokyonight" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=tokyonight" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=tokyonight&utcOffset=8" alt="Productive Time (PH)"/>
+</p>
+
+---
+
+<h2 align="center">💬 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<h2 align="center">😂 Random Dev Meme</h2>
+
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
