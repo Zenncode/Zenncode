@@ -24,13 +24,10 @@
   <a href="https://discord.gg/zenncode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
----
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 
----
 
 <h3 align="center">🧑‍💻 Programming Languages</h3>
 
@@ -48,7 +45,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
 </p>
 
----
 
 <h3 align="center">🌐 Frontend & Frameworks</h3>
 
@@ -63,7 +59,6 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/>
 </p>
 
----
 
 <h3 align="center">⚙️ Backend & Runtime</h3>
 
@@ -76,7 +71,6 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest api"/>
 </p>
 
----
 
 <h3 align="center">📱 Mobile Development</h3>
 
@@ -86,7 +80,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo"/>
 </p>
 
----
 
 <h3 align="center">🗄️ Databases</h3>
 
@@ -97,7 +90,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
 </p>
 
----
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
 
@@ -111,8 +103,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
 </p>
 
----
-
 <h3 align="center">🎨 Design & Editing Tools</h3>
 
 <p align="center">
@@ -123,7 +113,6 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
 </p>
 
----
 
 <h3 align="center">💻 Code Editors & IDEs</h3>
 
