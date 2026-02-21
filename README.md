@@ -9,7 +9,6 @@
 
 <p align="center">
   🔭 I'm currently an Intern at <strong>FTCC Solutions Inc.</strong> — working on the <strong>FTCC Company Management System</strong><br/>
-  🌱 I'm currently learning <strong>Node.js · TypeScript · JavaScript · Java · React.js · TailwindCSS · MongoDB Atlas</strong><br/>
   👨‍💻 Personal portfolio → <a href="https://zenncode.github.io/gitzenn">zenncode.github.io/gitzenn</a><br/>
   📫 Reach me at <strong>zennjanarce@gmail.com</strong>
 </p>
