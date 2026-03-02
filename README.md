@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zenjan Kiervin B Arce</h1>
-<h3 align="center">A passionate fullstack developer from FTCC Solutions Inc.</h3>
+<h3 align="center">A passionate fullstack developer.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+ZennCode+👋;Fullstack+Developer+%7C+OJT+Intern;Building+FTCC+Company+Management+System;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+ZennCode+👋;Fullstack+Developer+%7C+OJT+Intern;Always+Learning+%7C+Always+Growing+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG"/>
 </p>
 
 <br/>
 
-<p align="center">
-  🔭 I'm currently an Intern at <strong>FTCC Solutions Inc.</strong> — working on the <strong>FTCC Company Management System</strong><br/>
-  👨‍💻 Personal portfolio → <a href="https://zenncode.github.io/gitzenn">zenncode.github.io/gitzenn</a><br/>
-  📫 Reach me at <strong>zennjanarce8@gmail.com</strong>
+<p align="center"> 
+  🔭 I'm currently an **Intern** diving into real-world projects.<br/> 
+  👨‍💻 Creating apps that make life easier and more fun.<br/> 
+  🚀 Passionate about clean code and smooth user experiences.<br/> 
+  💡 Always learning, experimenting, and solving problems.<br/> 
+  📫 Reach me at <strong>zennjanarce8@gmail.com</strong> anytime! 
 </p>
 
 <br/>
