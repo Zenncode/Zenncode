@@ -190,13 +190,13 @@
 
 ---
 
-<h2 align="center">😂 Random Dev Meme</h2>
+<!-- <h2 align="center">😂 Random Dev Meme</h2>
 
 <p align="center">
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme"/>
 </p>
 
----
+--- -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
