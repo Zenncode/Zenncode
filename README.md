@@ -8,11 +8,11 @@
 <br/>
 
 <p align="center"> 
-  🔭 I'm currently an **Intern** diving into real-world projects.<br/> 
+  🔭 I'm currently an Intern diving into real-world projects.<br/> 
   👨‍💻 Creating apps that make life easier and more fun.<br/> 
   🚀 Passionate about clean code and smooth user experiences.<br/> 
   💡 Always learning, experimenting, and solving problems.<br/> 
-  📫 Reach me at <strong>zennjanarce8@gmail.com</strong> anytime! 
+  📫 Reach me at <strong>zenjanarce8@gmail.com</strong> anytime! 
 </p>
 
 <br/>
