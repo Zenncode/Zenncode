@@ -117,7 +117,7 @@
       <h3>🏢 FTCC Company Management System</h3>
       <p>An internal company management system built during my On-the-Job Training at <strong>FTCC Solutions Inc.</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Role-Fullstack%20Intern-blue?style=for-the-badge"/>
       </p>
       <p>
