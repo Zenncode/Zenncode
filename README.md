@@ -109,7 +109,7 @@
 
 ---
 
-<h2 align="center">🏗️ Current Project (OJT)</h2>
+<h2 align="center">🏗️ Company Project (OJT)</h2>
 
 <table align="center">
   <tr>
