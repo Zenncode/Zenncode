@@ -107,9 +107,10 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
 </p>
 
+<!--
 ---
 
-<!-- <h2 align="center">🏗️ Company Project (OJT)</h2>
+ <h2 align="center">🏗️ Company Project (OJT)</h2>
 
 <table align="center">
   <tr>
