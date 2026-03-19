@@ -109,6 +109,18 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
 </p>
 
+<h3 align="center">🤖 AI & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="copilot"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gemini"/>
+  <img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="grok"/>
+  <img src="https://img.shields.io/badge/Rocket.new-FF4D00?style=for-the-badge&logo=rocket&logoColor=white" alt="rocket.new"/>
+  <img src="https://img.shields.io/badge/DeepSeek-0A66C2?style=for-the-badge&logo=ai&logoColor=white" alt="deepseek"/>
+</p>
+
 <!--
 ---
 
