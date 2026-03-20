@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center"> 
-  🔭 I'm currently an Intern diving into real-world projects.<br/> 
+  🔭 I'm currently an Intern diving into real-world projects hehe.<br/> 
   👨‍💻 Creating apps that make life easier and more fun.<br/> 
   🚀 Passionate about clean code and smooth user experiences.<br/> 
   💡 Always learning, experimenting, and solving problems.<br/> 
