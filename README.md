@@ -85,7 +85,7 @@
 <h3 align="center">🤖 AI</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot,gemini,claude,grok&direction=left&perline=6" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot,gemini,claude,grok,blockbox&direction=left&perline=6" />
 </p>
 
 <!--
