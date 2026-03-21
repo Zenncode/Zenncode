@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="zenncode_banner.png" alt="ZennCode Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm ZENNCODE</h1>
 <h3 align="center">A passionate fullstack developer. </h3>
 
