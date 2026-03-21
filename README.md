@@ -74,7 +74,7 @@
 <h3 align="center">💻 Code Editors & IDEs</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&direction=right&perline=6" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,windsurf&direction=right&perline=6" />
 </p>
 
 <h3 align="center">🤖 AI & Tools</h3>
