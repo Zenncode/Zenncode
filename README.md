@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="zenncode_banner.png" alt="ZennCode Banner" width="100%"/>
+  <img src="zenncode_banner.png" alt="ZennCod Banner" width="100%"/>
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm ZENNCODE</h1>
