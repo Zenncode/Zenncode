@@ -77,7 +77,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,googleantigravity&direction=right&perline=6" />
 </p>
 
-<h3 align="center">🤖 AI & Tools</h3>
+<h3 align="center">🤖 AI</h3>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot,gemini,claude,grok&direction=left&perline=6" />
