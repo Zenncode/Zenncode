@@ -32,7 +32,7 @@
 <h3 align="center">🧑‍💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,python,java,cpp,cs,php&direction=left&perline=9" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,python,java,cpp,cs,php&direction=right&perline=9" />
 </p>
 
 <h3 align="center">🌐 Frontend & Frameworks</h3>
