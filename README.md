@@ -3,7 +3,7 @@
   <img src="zenncode_banner.png" alt="ZennCode Banner" width="100%"/>
 </p>
 
-<!-- <h1 align="center"> 👋, I'm ZENNCODE</h1>
+<!-- <h1 align="center">Hi 👋, I'm ZENNCODE</h1>
 <h3 align="center">A passionate fullstack developer. </h3> -->
 
 <p align="center">
