@@ -118,8 +118,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/zenncode?style=flat-square&logo=github&label=Stars&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
-  <img src="https://img.shields.io/github/followers/zenncode?style=flat-square&logo=github&label=Followers&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
+  <img src="https://img.shields.io/github/stars/Zenncode?style=flat-square&logo=github&label=Stars&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
+  <img src="https://img.shields.io/github/followers/Zenncode?style=flat-square&logo=github&label=Followers&color=58a6ff&labelColor=0d1117&logoColor=79c0ff"/>
   <img src="https://img.shields.io/badge/Commits-All%20Time-58a6ff?style=flat-square&logo=git&logoColor=79c0ff&labelColor=0d1117"/>
 </p>
 
@@ -132,7 +132,7 @@
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenncode&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenncode&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -140,19 +140,19 @@
 <h2 align="center">🌐 Profile Summary Cards</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenncode&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zenncode&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenncode&theme=github_dark" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zenncode&theme=github_dark" alt="Repos Per Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenncode&theme=github_dark" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zenncode&theme=github_dark" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenncode&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zenncode&theme=github_dark" alt="Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zenncode&theme=github_dark&utcOffset=8" alt="Productive Time (PH)"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zenncode&theme=github_dark&utcOffset=8" alt="Productive Time (PH)"/>
 </p>
 
 ---
@@ -166,5 +166,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Zenncode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
